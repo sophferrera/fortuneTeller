@@ -1,15 +1,17 @@
 body {
+  padding-top: 13rem;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-flow: wrap;
-  background-color: #6C7B6A;
+  color: #FFFFFF;
+  background-image: url("sparkle.gif");
   font-family: 'Playfair Display', serif;
-  font-size: 2.2rem;
+  font-size: 2rem;
 }
 
 input, button {
-  font-size: 2.2rem;
+  font-size: 2rem;
   font-family: 'Playfair Display', serif;
 }
 
